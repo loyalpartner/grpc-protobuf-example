@@ -5,10 +5,10 @@
 # @version 0.1
 
 build:
-	protoc -I ./ \
-		--go_out ./ \
+	protoc -I ./addressbook \
+		--go_out ./addressbook \
 		--go_opt paths=source_relative \
-		./*.proto
+		./addressbook/*.proto
 
 
 # end

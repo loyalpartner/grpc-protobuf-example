@@ -1,17 +1,8 @@
 package main
 
-// import "addressbook"
-
+import pb "github.com/loyalpartner/grpc-protobuf-example/addressbook"
 
 func main() {
-	// p := &tutorialpb.Person{
-		
 
-	// }
-	// tutorialpb.Per
-	// AddressBook
-	// addressbook
-	// addressbook.
 
-	// addressbook.
 }
